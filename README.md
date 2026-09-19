@@ -162,6 +162,28 @@ The system evaluates:
 - Demand forecast
 - Incoming purchase orders
 
+
+## Application Screenshots
+
+### Valid Purchase
+![Valid Purchase](docs/screenshots/valid-purchase.png)
+
+### AI Evaluation
+![Valid Purchase AI](docs/screenshots/valid-purchase-ai.png)
+
+### Supplier Shortage
+![Supplier Shortage](docs/screenshots/supplier-shortage.png)
+
+### AI Supplier Shortage Analysis
+![Supplier Shortage AI](docs/screenshots/supplier-shortage-ai.png)
+
+### Human Approval
+![Human Approval](docs/screenshots/human-approval.png)
+
+### Purchase Order
+![Purchase Order](docs/screenshots/purchase-order.png)
+
+
 ## Test Scenarios
 
 ### Scenario 1: Valid Purchase
